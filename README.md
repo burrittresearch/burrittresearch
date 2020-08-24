@@ -39,20 +39,3 @@ Python • Pandas • Numpy • Data Cleaning • Data Manipulation • Data Vis
 ### [Data Science](https://burrittresearch.com/)
 
 ### [Financial Writing](https://burrittresearch.com/)
-
-
-# sample
-## sample
-## sample
-### sample
-#### sample
-##### sample
-###### sample
-
-#sample
-## sample
-## sample
-### sample
-#### sample
-##### sample
-###### samples

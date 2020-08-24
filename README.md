@@ -30,4 +30,10 @@ If that’s you, don’t hesitate to reach out. I promise I’m worth the effort
 
 ## Skills
 
-Python • Pandas • Numpy • Data Cleaning • Data Manipulation • Data Visualization • Machine Learning • SQL • Git/GitHub • Advanced Excel with VBA • IBM Cloud AI • IBM Cognos Analytics • HTML/CSS • Jupyter Notebooks • Financial Writing • Financial Analysis • Equity Analysis • Credit Analysis • Accounting • Deltek Costpoint 
+Python • Pandas • Numpy • Data Cleaning • Data Manipulation • Data Visualization • Machine Learning • SQL • Git/GitHub • Advanced Excel with VBA • IBM Cloud AI • IBM Cognos Analytics • HTML/CSS • Jupyter Notebooks • Financial Writing • Financial Analysis • Equity Analysis • Credit Analysis • Accounting • Deltek Costpoint
+
+# Portfolios
+
+### [Data Science](https://burrittresearch.com/wayne-burritt-dance)
+
+### [Financial Writing](https://burrittresearch.com/wayne-burritt-research)

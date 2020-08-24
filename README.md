@@ -34,6 +34,6 @@ Python • Pandas • Numpy • Data Cleaning • Data Manipulation • Data Vis
 
 # Portfolios
 
-### [Data Science](https://burrittresearch.com/wayne-burritt-dance)
+### [Data Science](https://burrittresearch.com/)
 
-### [Financial Writing](https://burrittresearch.com/wayne-burritt-research)
+### [Financial Writing](https://burrittresearch.com/)

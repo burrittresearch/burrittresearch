@@ -12,17 +12,31 @@ Since 2005, BURRITT RESEARCH has provided companies with CUSTOM data science sol
 
 Using YOUR DATA we can:
 
-==> Uncover your most PROFITABLE products and services.
+**==> Uncover your most PROFITABLE products and services.**
 
-==> Tweak your existing operations for OPTIMAL efficiency.
+Solution from our portfolio: [Predicting Customer Churn](https://github.com/Drimdave/Predicting-Customers-Churn 'Predicting Customer Churn')
 
-==> Guide team members toward better and more verifiable DECISIONS.
+**==> Guide team members toward better and more verifiable DECISIONS.**
 
-==> Build machine learning and AI models that make bankable PREDICTIONS.
+Solution from our portfolio: [Data Analysis and Visualization of the Covid-19 Pandemic in Nigeria](https://github.com/Drimdave/Covid-19-Data-Analysis-and-Visualization 'Data Analysis and Visualization of the Covid-19 Pandemic in Nigeria')
 
-==> Create systems that reduce RISK across the board.
+**==> Build machine learning and AI models that make bankable PREDICTIONS.**
 
-==> Increase customer ANALYTICS exponentially.
+Solution from our portfolio: [Predicting FIFA Player Performance](https://github.com/Drimdave/FIFA-19-DATA-ANALYSIS-VISUALISATION-AND-PREDICTION 'Predicting FIFA Player Performance')
+
+**==> Create systems that reduce RISK across the board.**
+
+Solution from our portfolio: [San Francisco Crime Classification](https://github.com/Drimdave/The-San-Francisco-Crime-Classification 'San Francisco Crime Classification')
+
+**==> Increase marketing ANALYTICS exponentially.**
+
+Solution from our portfolio: [Data Analysis and Visualization of Restaurants in Johnson City, Tennessee](https://github.com/burrittresearch/restaurants-johnson-city 'Data Analysis and Visualization of Restaurants in Johnson City, Tennessee')
+
+**==> Deliver jargon-free reports that ENGAGE and INSPIRE team members.**
+
+Solution from our portfolio: [Exploratory Data Analysis Report of Restaurants in Johnson City, Tennessee](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Exploratory Data Analysis Report')
+
+**(More solutions in our PORTFOLIO below.)**
 
 We can deliver these solutions using out-of-the-box tools, like Excel, IBM Cognos, PowerBI, and Tableau.
 

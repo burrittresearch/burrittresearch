@@ -39,21 +39,23 @@ Bank of America • Big Innovations • Agora Financial • Morgan Stanley • W
 
 # Our Portfolio
 
-## Cryptocurrency/Blockchain
+## Financial Investment Writing
 
-[Article Recommending Ethereum](https://burrittresearch.com/wayne-burritt-article-buy-ethereum-today-medium.pdf 'Article Recommending Ethereum')  
-[Article on the Impact of Blockchain](https://burrittresearch.com/wayne-burritt-article-blockchain-will-reshape-medium.pdf 'Article on the Impact of Blockchain')  
-[Article about Tezos Node Storage](https://burrittresearch.com/wayne-burritt-article-heres-why-tezos-medium.pdf 'Article about Tezos Node Storage')  
+[Report for ino.com recommending 3 hot stocks](https://burrittresearch.com/wayne-burritt-report-3-hot-stocks-ino.pdf 'Report for ino.com recommending 3 hot stocks')  
+[Article for Weiss Research exploring budgeting for retirement](https://burrittresearch.com/wayne-burritt-article-money-and-markets.pdf 'Article for Weiss Research exploring budgeting for retirement')  
+[Newsletter for Agora Financial about stock options](https://burrittresearch.com/wayne-burritt-newsletter-agora-emo2.pdf 'Report for ino.com recommending 3 hot stocks')  
 
-## Investments
+## Cryptocurrency/Blockchain Writing
 
-[Financial Market Blog](https://burrittresearch.com/wayne-burritt-blog-insights.pdf 'Financial Market Blog')  
-[Investment Newsletter](https://burrittresearch.com/wayne-burritt-newsletter-agora-emo.pdf 'Investment Newsletter')  
-[Equity Research Report](https://burrittresearch.com/wayne-burritt-research-alkame.pdf 'Equity Research Report')  
+[Article for medium.com about Ethereum](https://burrittresearch.com/wayne-burritt-article-buy-ethereum-today-medium.pdf 'Article for medium.com about Ethereum')  
+[Article for medium.com about the impact of blockchain](https://burrittresearch.com/wayne-burritt-article-blockchain-will-reshape-medium.pdf 'Article for medium.com about the impact of blockchain')  
+[Article for medium.com exploring storage on the Tezos blockchain](https://burrittresearch.com/wayne-burritt-article-heres-why-tezos-medium.pdf 'Article for medium.com exploring storage on the Tezos blockchain')  
 
-## Data Science 
+## Data Science Projects
 
-[Jupyter Notebook: Data Analysis and Visualization of Restaurants in Johnson City, Tennessee](https://github.com/burrittresearch/restaurants-johnson-city 'Data Analysis and Visualization of Restaurants in Johnson City, Tennessee')  
-[Jupyter Notebook: Predicting Home Prices Kaggle Competition](https://github.com/burrittresearch/kaggle-competition-predict-house-prices 'Predicting Home Prices Kaggle Competition')  
-[Exploratory Data Analysis Report of Restaurants in Johnson City, Tennessee](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Exploratory Data Analysis Report')  
-
+[Maven Market data analysis project in Power BI](https://burrittresearch.com/wayne-burritt-power-bi-maven-market.pdf 'Maven Market data analysis project in Power BI')  
+[Kaggle real estate data analysis project in python](https://github.com/burrittresearch/kaggle-competition-predict-house-prices 'Kaggle real estate data analysis project in python')  
+[Johnson City, Tennessee restaurant data analysis project report](https://burrittresearch.com/wayne-burritt-restaurants-jc-report.pdf 'Johnson City, Tennessee restaurant data analysis project report')  
+[Johnson City, Tennessee restaurant analysis project presentation](https://burrittresearch.com/wayne-burritt-restaurants-jc-presentation.pdf 'Johnson City, Tennessee restaurant analysis project presentation')  
+[Sample Excel workbook with pivot table, pivot chart, and VBA macros](https://burrittresearch.com/wayne-burritt-excel-pivot-table-with-vba.pdf 'Excel workbook with pivot table, pivot chart, and VBA macros')  
+[Sample Visual Basic for Applications module with 4 macros for excel workbook](https://burrittresearch.com/wayne-burritt-excel-vba-macros.pdf 'Visual Basic for Applications module with 4 macros for excel workbook')  

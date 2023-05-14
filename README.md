@@ -8,8 +8,7 @@ Burritt Research is a research and writing firm formed in 2005. We are experts a
 
 ## What We Do
 
-We specialize in financial writing, cryptocurrency/blockchain, and data science.<br>
-Please visit burrittresearch.com(https://burrittresearch.com) for more info.<br>
+We specialize in financial writing, cryptocurrency/blockchain, and data science. Please visit burrittresearch.com(https://burrittresearch.com) for more info.
 
 
 

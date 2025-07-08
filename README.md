@@ -10,6 +10,7 @@
 >[burrittresearch.com](https://burrittresearch.com'burrittresearch.com')<br>
 >[linkedin.com/in/wayneburritt](https://www.linkedin.com/in/wayneburritt 'linkedin.com/in/wayneburritt')<br>
 >[medium.com/burrittresearch](https://medium.com/burrittresearch 'medium.com/burrittresearch')<br>
+>[github.com/burrittresearch](https://github.com/burrittresearch 'github.com/burrittresearch')<br>
 
 ## ABOUT US
 

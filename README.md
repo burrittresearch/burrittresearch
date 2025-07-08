@@ -10,21 +10,19 @@
 >[burrittresearch.com](https://burrittresearch.com'burrittresearch.com')<br>
 >[linkedin.com/in/wayneburritt](https://www.linkedin.com/in/wayneburritt 'linkedin.com/in/wayneburritt')<br>
 >[medium.com/burrittresearch](https://medium.com/burrittresearch 'medium.com/burrittresearch')<br>
->[https://github.com/burrittresearch](https://github.com/burrittresearch 'github.com/burrittresearch')<br>
 
 ## ABOUT US
 
 Burritt Research, Inc. (BRI) is a financial writing and research firm founded in 2004. We have 10+ years of experience delivering sophisticated content for investment publishers, financial firms, and digital platforms. We are adept at producing high-impact articles, reports, and thought leadership on investments, stocks, options, cryptocurrency, blockchain, interest rates, economics, mortgages, budgeting and personal finance. Expert at transforming complex financial ideas into compelling narratives that build trust and drive engagement for seasoned and new investors. BRI is led by company founder Wayne Burritt, who personally handles all writing, strategy, and client engagement. Wayne holds an MBA and a BA in English and Philosophy.
 
-
-# SELECT FINANCIAL WRITING CLIENTS
+## SELECT FINANCIAL WRITING CLIENTS
 
 Agora Financial • INO.com • TheStreet.com • Tifin Wealth • Weiss Research • Wealthcare
 
 ## PLATFORMS & FORMATS
 
 Articles • Newsletters • Blogs • Research Reports • White Papers • Thought Leadership 
-
+	
 ## DOMAINS COVERED
 
 Stocks • Options • Cryptocurrency • Commodities • Economics • Interest Rates • Personal Finance
@@ -85,42 +83,67 @@ Accomplished financial writer with 10+ years of experience delivering sophistica
 
 # Portfolio
 
-### Blockchain
+##  Articles/Blogs
 
-[Article for ino.com/medium.com about the impact of blockchain](https://burrittresearch.com/wayne-burritt-article-blockchain-will-reshape-medium.pdf 'Article for medium.com about the impact of blockchain')<br>
+> ### Blockchain
+> 
+> [ Article for ino.com about proof of work on the blockchain](https://burrittresearch.com/wayne-burritt-article-blockchain-ino-proof-of-work-2021.pdf 'Article for ino.com about proof of work on the blockchain')<br>
+> 
+> ### Cryptocurrency
+>
+>[Article for ino.com about BTC price prediction](https://burrittresearch.com/wayne-burritt-article-crypto-ino-btc-price-2022.pdf 'Article for ino.com about BTC price prediction')<br>
+>
+>
+>### International Markets
+>
+>[Article for Association of Financial Professionals about investing in China](https://burrittresearch.com/wayne-burritt-article-international-afp-2006.pdf 'Article for Association of Financial Professionals about investing in China')<br>
+>
+>### Market Commentary
+>
+>[Article for Tifin AG about market commentary](https://burrittresearch.com/wayne-burritt-article-market-commentary-tifin-2024.pdf 'Article for Tifin AG about market commentary')<br>
+>
+>### Personal Finance
+>
+>[Article for Weiss Research exploring budgeting for retirement](https://burrittresearch.com/wayne-burritt-article-personal-finance-mam-2016.pdf 'Article for Weiss Research exploring budgeting for retirement')<br>
+>
+>### Stocks
+>
+>[Article for ino.com recommending 3 hot stocks](https://burrittresearch.com/wayne-burritt-article-stocks-ino-3-hot-stocks-2021.pdf 'Report for ino.com recommending 3 hot stocks')<br>
+>
+>### U.S. Economy
+>
+>[Article for wealthcare capital about economy](https://burrittresearch.com/wayne-burritt-article-usecon-wealthcare-2025.pdf 'Article for wealthcare capital about the economy')<br>
 
-### Cryptocurrency
+## Ghostwriting
 
-[Article for ino.com/medium.com about Ethereum](https://burrittresearch.com/wayne-burritt-article-buy-ethereum-today-medium.pdf 'Article for medium.com about Ethereum')<br>
+>### Gold
+>[Ghostwriting for Treasure Coast Bullion Group about gold](https://burrittresearch.com/wayne-burritt-article-ghostwriting-tcbg-2017.pdf 'Ghostwriting for Treasure Coast Bullion Group about gold')
+>
+>### Options
+>[Ghostwriting for Weiss Rsearch about options](https://burrittresearch.com/wayne-burritt-article-ghostwriting-weiss-eoa-2006.pdf 'Ghostwriting for Weiss Rsearch about options')
+>
+>### Stocks
+>[Ghostwriting for Weiss Rsearch about stocks](https://burrittresearch.com/wayne-burritt-article-ghostwriting-weiss-ewt-2005.pdf 'Ghostwriting for Weiss Rsearch about stocks')
 
-### Financial Websites
+## Investment Newsletters
 
-[Retirement website writing for theretirementsolution.com](https://burrittresearch.com/wayne-burritt-financial-website.pdf 'Article for Weiss Research exploring budgeting for retirement')<br>
+>### Options
+>
+>[Newsletter for Agora Financial about stock options](https://burrittresearch.com/wayne-burritt-newsletter-options-agora-iod-2009.pdf 'Newsletter for Agora Financial about stock options')<br>
+>
+>### Stocks
+>
+>[Newsletter for Weiss Research about stocks](https://burrittresearch.com/wayne-burritt-newsletter-stocks-weiss-mup-2016.pdf 'Newsletter for Weiss Research about stocks')<br>
 
-### Industry Outlook
+## Research Reports / White Papers
 
-[Article for TheStreet.com about the outlook for the retail industry](https://burrittresearch.com/wayne-burritt-the-street.pdf 'Article for TheStreet.com about the outlook for the retail industry')<br>
+>### Stocks
+>
+>[Research report about PSUN](https://burrittresearch.com/wayne-burritt-research-psun-2005.pdf 'Research report about PSUN')<br>
 
-### International Economics
+## Websites
 
-[Report for Association of Financial Professionals about investing in China](https://burrittresearch.com/wayne-burritt-china-investing.pdf 'Report for Association of Financial Professionals about investing in China')<br>
+>### Retirement
+>
+>[Website for theretirementsolution.com](https://burrittresearch.com/wayne-burritt-websites-trs-2007.pdf 'Retirement website writing for theretirementsolution.com')<br>
 
-### Market Commentary
-
-[Article for Tifin AG about market commentary](https://burrittresearch.com/wayne-burritt-tifin-market-commentary.pdf 'Article for Tifin AG about market commentary')<br>
-
-### Personal Finance
-
-[Article for Weiss Research exploring budgeting for retirement](https://burrittresearch.com/wayne-burritt-article-money-and-markets.pdf 'Article for Weiss Research exploring budgeting for retirement')<br>
-
-### Stocks
-
-[Report for ino.com recommending 3 hot stocks](https://burrittresearch.com/wayne-burritt-report-3-hot-stocks-ino.pdf 'Report for ino.com recommending 3 hot stocks')<br>
-
-### Stock Options
-
-[Newsletter for Agora Financial about stock options](https://burrittresearch.com/wayne-burritt-newsletter-agora-emo2.pdf 'Newsletter for Agora Financial about stock options')<br>
-
-### U.S. economics
-
-[Article for wealthcare capital about economics](https://burrittresearch.com/wayne-burritt-wealthcare-economic-commentary.pdf 'Article for wealthcare capital about economics')<br>
